@@ -39,4 +39,4 @@ To demonstrate how Excel can be used to build a professional-grade dashboard for
  Formulas (e.g., SUMIFS, AVERAGEIFS) - Calculating metrics 
 
  ## 📁 Project Structure
-    ![Sales Dashboard Preview](https://github.com/Rohan0000763/Data-Analysis-Dashboard/blob/main/Sample%20Image.png)
+   Example: ![Sales Dashboard Preview](https://github.com/Rohan0000763/Data-Analysis-Dashboard/blob/main/Sample%20Image.png)
